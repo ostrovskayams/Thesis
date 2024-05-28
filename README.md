@@ -4,8 +4,8 @@
 
 ## Описание файлов, загруженных в этот репозиторий
 ### Папка *data*
-Оригинальный датасет FUN: https://github.com/computational-humor/humor-recognition/tree/master/data 
-*train_30k.csv* - уменьшенная версия датасета, используемая для обучения моделей. 
+Оригинальный датасет FUN: https://github.com/computational-humor/humor-recognition/tree/master/data   
+*train_30k.csv* - уменьшенная версия датасета, используемая для обучения моделей.   
 *test.csv* - данные для тестирования моделей. 
 *augmentations.csv* - собранные для аугментации данные. 
 *new_train.csv* - аугментированный набор обучающих данных. 
